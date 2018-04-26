@@ -29,3 +29,6 @@
 
 -TrampoinePark
 점프패드 슬라임텀블린
+
+-SUPERFLAT
+완전한 평지
