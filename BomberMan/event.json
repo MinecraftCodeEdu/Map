@@ -1,0 +1,1 @@
+{"PlayerJoinEvent":true,"PlayerDropItemEvent":true,"EntityPickupItemEvent":true,"BlockExplodeEvent":false,"BlockCanBuildEvent":true,"EntityExplodeEvent":true,"CreatureSpawnEvent":true,"BlockPlaceEvent":true,"BlockBreakEvent":true,"FoodLevelChangeEvent":true,"EntityDamageEvent":false}
