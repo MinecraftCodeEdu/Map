@@ -20,3 +20,9 @@
 
 -Village_Destroy
 마을지우기
+
+-HideAndSeek
+숨바꼭질
+
+-BomberMan
+폭탄게임
