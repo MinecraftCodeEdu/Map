@@ -12,7 +12,7 @@
 -Mountain_Tunnel
 터널뚫기
 
--Multi_Island
+-Escape_Island
 섬탈출
 
 -SkyLand
