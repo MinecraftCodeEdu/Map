@@ -32,3 +32,6 @@
 
 -SUPERFLAT
 완전한 평지
+
+-DefendMonster
+몬스터철장맵
