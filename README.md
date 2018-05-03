@@ -35,3 +35,6 @@
 
 -DefendMonster
 몬스터철장맵
+
+-Tresure
+보물찾기 맵
